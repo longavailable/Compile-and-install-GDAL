@@ -7,7 +7,8 @@ There are four steps for Release-mode of building GDAL on Windwos.<br>
 >The first two steps are very easy.<br>
 
 **3.Open a command prompt, go to that folder.**<br>
->This is easy.<br>
+>I have to say this cost me much time. Those commands would not work if you just open "cmd" from startmenu.<br>
+You'd better open a "VS2012 x86 Native Tools Command Prompt" in Microsoft Visual Studio 2012 from startmenu if MSVS2012 was installed.<br>
 
 **4.Building and installing GDAL use the below commands.**<br>
 `nmake -f makefile.vc`<br>
