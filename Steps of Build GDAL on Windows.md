@@ -13,4 +13,3 @@ You'd better open a "VS2012 x86 Native Tools Command Prompt" in Microsoft Visual
 **4.Building and installing GDAL use the below commands.**<br>
 `nmake -f makefile.vc`<br>
 `nmake -f makefile.vc devinstall`<br>
->
