@@ -1,7 +1,5 @@
 Steps of Build GDAL on Windows
 ===
 There are four steps for Release-mode of building GDAL on Windwos.<br>
-<font color=#0099ff size=7 >       1.Get the GDAL source.  The download instructions are on the [GDAL site](https://trac.osgeo.org/gdal/wiki/DownloadSource).</font><br>
+       1.Get the GDAL source.  The download instructions are on the [GDAL site](https://trac.osgeo.org/gdal/wiki/DownloadSource).<br>
         This is easy.<br>
-<font color=blue>test</font><br>
-<font color=gray size=5>gray</font>
