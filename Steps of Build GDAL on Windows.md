@@ -1,5 +1,9 @@
 Steps of Build GDAL on Windows
 ===
+
+This is a fork on [Building GDAL on Windows with Microsoft Visual C++](link: http://vterrain.org/Distrib/gdal.html).
+I try to make it more easily and write a batch file to build and install GDAL aotumatically.
+
 There are four steps for Release-mode of building GDAL on Windwos.<br>
 
 **1.Get the GDAL source.  The download instructions are on the [GDAL site](https://trac.osgeo.org/gdal/wiki/DownloadSource).**<br>
