@@ -1,6 +1,7 @@
 Steps of Build and install GDAL on Linux
 ===
 
+[CMake (GDAL versions >= 3.5.0)](https://gdal.org/development/building_from_source.html#cmake-gdal-versions-3-5-0)
 
 - Download the latest [GDAL source](https://gdal.org/download.html#download).
 ```
